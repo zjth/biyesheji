@@ -1,0 +1,123 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "id": -1,
+          "name": "db guide",
+          "pathName": "pages/databaseGuide/databaseGuide",
+          "query": ""
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/notice/notice",
+          "pathName": "pages/notice/notice",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/noticeMain/noticeMain",
+          "pathName": "pages/noticeMain/noticeMain",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/notice/notice",
+          "pathName": "pages/notice/notice",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/login/login",
+          "pathName": "pages/login/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/information/information",
+          "pathName": "pages/information/information",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/login/login",
+          "pathName": "pages/login/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/test/test",
+          "pathName": "pages/test/test",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/myDeclare/myDeclare",
+          "pathName": "pages/myDeclare/myDeclare",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/addDeclare/addDeclare",
+          "pathName": "pages/addDeclare/addDeclare",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/teacher/teacher",
+          "pathName": "pages/teacher/teacher",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/adm/adm",
+          "pathName": "pages/adm/adm",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/achievemen/achievements",
+          "pathName": "pages/achievemen/achievements",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/delecNotice/delecNotice",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/addTeacher/addTeacher",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/addNotice/addNotice",
+          "query": "",
+          "scene": null,
+          "launchMode": "default"
+        }
+      ]
+    }
+  }
+}
